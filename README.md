@@ -5,6 +5,6 @@ Here is how I built a Plant Disease Detection model using a Convolutional Neural
 
 # For those having issues
 
-For finding DataSet;Go to Kaggle and download the PlantVillage Dataset.
+For finding DataSet;Go to Kaggle and download the PlantVillage.
 
 I have included a running version of my code in kaggle link. If you have any problem please refer to that. 
